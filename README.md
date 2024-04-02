@@ -214,19 +214,19 @@ MAP.HTML:
 ![alt text](<Screenshot (13).png>)
  
  HOTEL.HTML:
-![alt text](<mapapp/static/Screenshot (14).png>)
+![alt text](<Screenshot (14).png>)
 
 TEMPLE.HTML:
-![alt text](<mapapp/static/Screenshot (15).png>)
+![alt text](<Screenshot (15).png>)
 
 RESIDENCY.HTML:
-![alt text](<mapapp/static/Screenshot (16).png>)
+![alt text](<Screenshot (16).png>)
 
 AUTOMOBILES.HTML:
-![alt text](<mapapp/static/Screenshot (17).png>)
+![alt text](<Screenshot (17).png>)
 
 TRAVELS.HTML:
-![alt text](<mapapp/static/Screenshot (18).png>)
+![alt text](<Screenshot (18).png>)
 
 
 
